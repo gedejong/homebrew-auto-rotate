@@ -7,7 +7,7 @@ cask "auto-rotate" do
   desc "Deskew and turn upright every page of a PDF"
   homepage "https://github.com/gedejong/auto-rotate"
 
-  # 0.1.0 ships an Apple-Silicon, macOS 14+ build (single-arch; see project notes).
+  # Apple-Silicon, macOS 14+ build (single-arch; see project notes).
   depends_on arch: :arm64
   depends_on macos: :sonoma
 
