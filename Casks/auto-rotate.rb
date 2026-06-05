@@ -1,6 +1,6 @@
 cask "auto-rotate" do
-  version "0.1.0"
-  sha256 "32dc2cbf4c144adf4e43a1d92b8c0880c3ebdaf0f581252e67159c01883e016f"
+  version "0.1.1"
+  sha256 "898dbf22c5b973a2bf9663250c1a2ac635b08732929ebcda30d18a67c2a5c305"
 
   url "https://github.com/gedejong/auto-rotate/releases/download/v#{version}/Auto-Rotate-#{version}.dmg"
   name "Auto-Rotate"
